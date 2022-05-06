@@ -1,2 +1,2 @@
 # Java
-Market ay-gün-yıla göre yapılan satış toplamı 
+The sum of sales made by the market is month-day-year
